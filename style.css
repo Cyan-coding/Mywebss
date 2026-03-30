@@ -57,6 +57,6 @@ footer {
     display: none;
 }
 
-.active {
+.page.active {
     display: block;
 }
